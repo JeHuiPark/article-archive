@@ -5,3 +5,4 @@
 [원본](https://clig.dev/)
 - [Memory Management in the Java HotSpot Virtual Machine](https://www.oracle.com/technetwork/java/javase/memorymanagement-whitepaper-150215.pdf)
 - [Oracle Java Document](https://docs.oracle.com/en/java/javase/index.html)
+- https://www.oracle.com/kr/news/announcement/oracle-announces-java-16-2021-03-16.html
